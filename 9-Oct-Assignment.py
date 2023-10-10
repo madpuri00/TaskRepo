@@ -19,3 +19,4 @@ print(set1)
 # pwd - to see path
 # cd into TaskRepo
 # git add . - to add everything into folder or git add 9-Oct-Assignment.py
+# git commit -m "" <-- to add a message to go with the commit
